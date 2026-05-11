@@ -1,4 +1,4 @@
-# Data-Cleaning-using-Python
+# Retail-Sales-Data-Preparation
 This repository contains raw dataset and cleaned dataset using Python libraries.
 
 **RAW Dataset**
