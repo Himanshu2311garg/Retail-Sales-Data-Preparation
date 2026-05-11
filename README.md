@@ -29,4 +29,4 @@ The cleaned Sales dataset using python libraries like Pandas containing only 202
 The cleaned dataset generated in this project was later used to build an interactive Tableau dashboard.
 
 Tableau Dashboard Repository:
-https://github.com/Himanshu2311garg/NovaMart-Retail-Analytics-Tableau
+https://github.com/Himanshu2311garg/Retail-Analytics-BI-Dashboard
